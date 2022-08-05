@@ -1,0 +1,46 @@
+textarea {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 75px;
+    font-weight:510;
+    margin-bottom: 8px;
+    margin-top: 5px;
+}
+
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight:520;
+}
+.sm {
+    font-size: 16px;
+}
+.pst {
+    /* border: 2px solid red; */
+    margin-top: 1px
+}
+.head {
+    margin-bottom: 8px;
+}
+#name, #surname, #email {
+    width:200px;
+    height: 25px;
+}
+.marginb {
+    margin-bottom: 10px;
+    
+}
+.margint {
+    margin-top: 10px;
+}
+
+.submit {
+    background-color:whitesmoke;
+    border: none;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 17px;
+}
